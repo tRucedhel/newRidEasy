@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "985214046636",
+    "firebase_url": "https://driveasy-2854e-default-rtdb.firebaseio.com",
+    "project_id": "driveasy-2854e",
+    "storage_bucket": "driveasy-2854e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985214046636:android:fb7f74e0e404b79cba2a09",
+        "android_client_info": {
+          "package_name": "com.project.driveasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985214046636-gcrq03epjlulr3falt535ucfeqbuhsk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZm9GTJTNbDwoaEOV1GgJ6rZxTrYofAk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985214046636-gcrq03epjlulr3falt535ucfeqbuhsk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
