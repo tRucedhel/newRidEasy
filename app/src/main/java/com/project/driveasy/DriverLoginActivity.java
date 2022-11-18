@@ -25,7 +25,7 @@ public class DriverLoginActivity extends AppCompatActivity
             @Override
             public void onClick(View view)
             {
-                Intent LoginDriverIntent = new Intent(DriverLoginActivity.this, DriverLoginActivity.class);
+                Intent LoginDriverIntent = new Intent(DriverLoginActivity.this, hometemp.class);
                 startActivity(LoginDriverIntent);
             }
         });

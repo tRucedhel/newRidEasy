@@ -51,7 +51,7 @@ public class DriverSignupActivity extends AppCompatActivity
                     DriverCopass.getText().toString());
             dao.add(driver).addOnSuccessListener(suc ->{
                 Toast.makeText(this,"Berhasil membuat akun", Toast.LENGTH_SHORT).show();
-                Intent intent=new Intent(this,MenuDriver.class);
+                Intent intent=new Intent(this,hometemp.class);
                 startActivity(intent);
             }).addOnFailureListener(err->{
                 Toast.makeText(this,""+err.getMessage(), Toast.LENGTH_SHORT).show();
